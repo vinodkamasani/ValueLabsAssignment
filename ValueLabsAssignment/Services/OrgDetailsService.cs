@@ -21,7 +21,7 @@ namespace ValueLabsAssignment.Services
 
         public string GetMaximumQuotePrice(List<string> organizations)
         {
-            String x =orgDetailsRepository.GetMaximumQuotePrice(organizations);
+            String x = orgDetailsRepository.GetMaximumQuotePrice(organizations);
             return x;
         }
     }

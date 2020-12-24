@@ -19,7 +19,7 @@ namespace ValueLabsAssignment.Controllers
             "AAWW", "AAL", "CPAAW", "PRAA", "PAAS", "RYAAY"
         };
 
-        
+
         private readonly ILogger<OrganizationDetailsController> _logger;
         private ResponseDTO ResponseDTO;
         private readonly IOrgDetailsService service;
@@ -37,7 +37,7 @@ namespace ValueLabsAssignment.Controllers
         {
             try
             {
-              
+
                 this.ResponseDTO.Data = service.GetMaximumQuotePrice(organizations.ToList());
                 this.ResponseDTO.IsSuccess = true;
 
