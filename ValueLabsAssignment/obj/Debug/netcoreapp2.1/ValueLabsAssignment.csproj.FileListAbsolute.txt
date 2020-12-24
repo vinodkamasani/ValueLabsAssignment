@@ -1,0 +1,4 @@
+C:\Users\cmelam\Downloads\ValueLabsAssignment\ValueLabsAssignment\obj\Debug\netcoreapp2.1\ValueLabsAssignment.csprojAssemblyReference.cache
+C:\Users\cmelam\Downloads\ValueLabsAssignment\ValueLabsAssignment\obj\Debug\netcoreapp2.1\ValueLabsAssignment.AssemblyInfoInputs.cache
+C:\Users\cmelam\Downloads\ValueLabsAssignment\ValueLabsAssignment\obj\Debug\netcoreapp2.1\ValueLabsAssignment.AssemblyInfo.cs
+C:\Users\cmelam\Downloads\ValueLabsAssignment\ValueLabsAssignment\obj\Debug\netcoreapp2.1\ValueLabsAssignment.csproj.CoreCompileInputs.cache

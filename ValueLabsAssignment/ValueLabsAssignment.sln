@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueLabsAssignment", "ValueLabsAssignment.csproj", "{FE2DBFC5-2E1A-4A43-8F58-F81FBF104706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganizationRecordsTesting", "..\OrganizationRecordsTesting\OrganizationRecordsTesting.csproj", "{B3E42D0B-798B-49B3-9DB6-AB239C71B6D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE2DBFC5-2E1A-4A43-8F58-F81FBF104706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2DBFC5-2E1A-4A43-8F58-F81FBF104706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2DBFC5-2E1A-4A43-8F58-F81FBF104706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2DBFC5-2E1A-4A43-8F58-F81FBF104706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3E42D0B-798B-49B3-9DB6-AB239C71B6D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E42D0B-798B-49B3-9DB6-AB239C71B6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E42D0B-798B-49B3-9DB6-AB239C71B6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E42D0B-798B-49B3-9DB6-AB239C71B6D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA18E442-ABA1-446B-942C-ACCEA2DC737F}
+	EndGlobalSection
+EndGlobal
